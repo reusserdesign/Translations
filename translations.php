@@ -1,4 +1,5 @@
 <?php
+//TODO add nested contexts for translations
 class Translations{
 	const TRANSLATIONS_TABLE = 'translation_strings';  //Translation strings table (VARCHAR or such)
 	const LONG_TRANSLATIONS_TABLE = 'translation_strings_long';  //Long translation strings table (TEXT or such)
